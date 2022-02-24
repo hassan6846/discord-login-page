@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-image: none;
+}
+
+.first {
+    width: 100%;
+    margin-top: 80px;
+}
+
+.board {
+    border-radius: 0px;
+    height: 100vh;
+}
+
+.second {
+    display: none;
+}
+
+.welcome {
+    margin-top: 70px;
+}
+
+.welcome-text {
+    font-size: 15px;
+    word-spacing: 3px;
+}
+
+h1 {
+    font-size: 40px;
+}

@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+background-image: url(background.jpg);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.board {
+    background-color: #36393F;
+    height: 400px;
+    width: 700px;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+
+}
+
+
+.first {
+    height: 400px;
+    width: 60%;
+
+}
+
+.second {
+    height: 400px;
+    width: 40%;
+
+
+}
+
+
+/* second-area */
+.qr-code {
+
+    width: 200px;
+}
+
+.images {
+
+    margin-top: 50px;
+    text-align: center;
+}
+
+.heading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    font-weight: lighter;
+    margin-top: 15px;
+    font-size: 15px;
+    color: #9A9CA0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 30px;
+}
+
+
+/* --------------------------------- */
+/* first-area */
+.welcome {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.welcome-text {
+    color: #9A9CA0;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.email-text {
+    margin-bottom: 3px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7D7F84;
+
+
+}
+
+.email-input {
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.486);
+    width: 90%;
+    height: 40px;
+    background-color: #303339;
+}
+
+.email {
+
+    text-align: center;
+}
+
+.forgot {
+    line-height: 2.1;
+    margin-bottom: 12px;
+    margin-left: 20px;
+    color: #05A4E3;
+}
+
+
+.button-login {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.login-tag {
+    color: #F6F7FE;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: #5865F2;
+    padding: 16px 40%;
+    border-radius: 3px;
+
+}
+
+.login-tag:hover {
+    background-color: #3545fa5d;
+    cursor: url("/128.png"), default;
+}
+
+input {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+
+    font-size: 17px;
+}
