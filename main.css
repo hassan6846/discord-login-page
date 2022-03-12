@@ -131,7 +131,7 @@ background-image: url(background.jpg);
 
 .login-tag:hover {
     background-color: #3545fa5d;
-    cursor: url("/128.png"), default;
+    cursor: url("128.png"), default;
 }
 
 input {
