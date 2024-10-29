@@ -6,7 +6,7 @@ Discord Login Page Responsive Layout developed using HTML and CSS
 
 - [Technologies Used](#technologies-used)
 - [Live Preview](#live-preview)
-- [Image Previews](#image-previews)
+
 
 ## Technologies Used
 - **HTML**
@@ -14,5 +14,5 @@ Discord Login Page Responsive Layout developed using HTML and CSS
 
 ## Live Preview
 
-You can view the live project [here](https://testapphbd.netlify.app/).
+You can view the live project [here](https://discordloginpage.netlify.app/).
 
