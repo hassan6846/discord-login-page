@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
 }
 
 .main {
-background-image: url(background.jpg);
+background-image: url('/images/background.jpg');
     height: 100vh;
     width: 100%;
     display: flex;
@@ -131,7 +133,7 @@ background-image: url(background.jpg);
 
 .login-tag:hover {
     background-color: #3545fa5d;
-    cursor: url("128.png"), default;
+    cursor: url("/images/128.png"), default;
 }
 
 input {
